@@ -1,0 +1,188 @@
+Translator's Introduction
+
+The following instruction on meditation practice was authored by the great 14th-century Dzogchen
+scholar and adept Longchen Rabjam Drimé Özer (1308–1364). It is described as a guidance
+on the meaning (don khrid) of being at ease with the illusory nature of reality and is
+taken from the third and final section of the famed Trilogy of Rest (Ngal gso skor gsum).
+
+
+Read more
+
+function show_intro() {	document.getElementById('intro-readmore').style.display='none';	var
+e = document.getElementById('intro-hidden');	e.style.height = e.scrollHeight + "px";	return
+false;}		
+
+The trilogy as a whole focuses on the means to cultivate deep relaxation and remain at ease
+with all that manifests in one's experience. In each section, Longchenpa provides specific
+guidance on contemplation—for being at ease in the nature of mind, in meditation, and, here,
+in illusion. The text offers instructions on dream yoga and the conjuring of apparitions
+as a means to become familiar with the illusoriness of experience. Reference is also made
+to the eight similes of cognitive illusion, which are cited throughout Buddhist literature:
+1) dreams, 2) magic or illusions, 3) hallucinations or trompe l'oeils, 4) mirages, 5)
+reflections, such as the moon's reflection in water, 6) echoes, 7) castles in the clouds,
+or cities of gandharvas, and 8) apparitions.
+
+A Wish-Fulfilling Gem
+
+Guidance on the Meaning of Being at Ease with Illusion, A Dzogchen Teaching
+
+by Longchen Rabjam Drimé Özer
+
+རྒྱལ་ཆོས་དྲི་མེད་སྒྱུ་མ་ལ་བཏུད་དེ། །ཆོས་ཀུན་སྒྱུ་མའི་ཚུལ་ཉིད་གསུངས་པའི་དོན། །ཉམས་སུ་བླང་ཕྱིར་བླ་མའི་མན་ངག་དང་།
+།མདོ་དང་རྒྱུད་དོན་སྙིང་པོའི་དགོངས་པ་བྲི།
+
+To the dharma of the victors that is a stainless illusion, I bow.The meaning of all dharmas
+is taught to be the very way of illusion.
+
+So that this may be put into practice,I shall write down spoken instructions from my teachersand
+this intent of the essential meaning of the sūtras and tantras.
+
+དང་པོ་ཁོ་ནར་སྐྱབས་སུ་འགྲོ་བ་དང་། བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་ནས། སྟོང་པ་ཉིད་ཀྱི་ངང་ལས་སྤྱི་བོར་ཉི་ཟླ་པདྨའི་སྟེང་དུ་རྩ་བའི་བླ་མ་ལ་བརྒྱུད་པའི་བླ་མ་ཡི་དམ་མཁའ་འགྲོ་དང་བཅས་པ་བསྟིམས་པའི་མཐར་སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔས་བསྐོར་བར་བསམས་ཏེ།
+ཡིད་ཀྱིས་མཆོད་པ་དང་བསྟོད་པ་དང་སྡིག་པ་བཤགས་པ་དང་།
+སྒྱུ་མ་འབྱོང་བའི་གསོལ་བ་བཏབ་པའི་རྗེས་ལ། སྣང་སྲིད་ཐམས་ཅད་སྒྱུ་མའི་རང་བཞིན་དུ་ཕྱམ་གྱིས་སོང་བར་བསམས་ལ།
+ཐ་མལ་གྱི་ཞེན་རྟོག་སྐད་ཅིག་ཀྱང་མེད་པའི་ངང་དེ་ཉིད་དང་མ་བྲལ་བས།
+
+First, go solely for refuge,
+and generate the mind as enlightened.[1]
+
+From the ongoing experience of emptiness,imagine buddhas and bodhisattvas in a circle who ultimately
+dissolvealong with teachers of the lineage, meditation deities, and ḍākinīs into
+your root teacherwho sits upon the sun and moon stacked on a lotus flower on your crown.
+
+Mentally make offerings, praise, and confess your faults,and after that, make the aspiration
+to train in illusion.
+
+As you imagine being fully absorbed in the illusory nature of all that appears and exists,remain
+inseparable from that very reality –the ongoing experience that has no ordinary conceptual
+fixations,not even for an instant.
+
+ཕྱི་སྣང་བའི་རི་དང་ཁང་བཟང་དང་ས་ཆུ་མེ་རླུང་ནམ་མཁའ་ལ་སོགས་པ་ཐམས་ཅད་དང་། ནང་དགག་སྒྲུབ་ཀྱི་རིག་པ་སྣ་ཚོགས་སུ་འཆར་པ་ཐམས་ཅད་ལ།
+འགྲོ་ཉལ་ཟ་འཆག་སྨྲ་བརྗོད་ལ་སོགས་པ་ཐམས་ཅད་རྨི་ལམ་དང་སྒྱུ་མ་དང་། མིག་ཡོར་དང་།
+སྨིག་རྒྱུ་དང་། ཆུ་ཟླ་དང་། སྒྲ་བརྙན་དང་། དྲི་ཟའི་གྲོང་ཁྱེར་དང་། སྤྲུལ་པ་ལྟ་བུའི་རང་བཞིན་དུ་བསྒོམས་ལ་མ་ཡེངས་པར་བྱ་ཞིང་།
+ཡུལ་གྱི་སྣང་བ། བློའི་དགག་སྒྲུབ། ཉམས་ཀྱི་འཕེལ་འགྲིབ་ཅི་ལ་ཡང་སྒྱུ་མའི་རོལ་པར་ཤེས་པས་ཐུག་ཕྲད་རང་གྲོལ་ཆེན་པོར་རྩལ་སྦྱང་ཞིང་བོགས་དབྱུང་ངོ་།
+།
+
+Outward appearances including mountains and mansions,all of the earth, water, fire, wind, space,
+and so forth …and what’s inward including all that arises as the manifold variations
+of awarenessthat affirm or negate,all of your moving, sleeping, eating, walking, talking,
+and so forth –without distraction, become familiar with their nature being like a dream, an
+illusion,hallucination, mirage, a moon in water, an echo, castles in the clouds, an apparition.
+
+
+By knowing that the appearances of objects,affirmations or negations of the intellect, ebbs
+and flows of experience,and anything whatsoever, are the play of illusion –enhance your practice
+and train in being artful,so as to bring whatever you encounter within great intrinsic
+freedom!
+
+དེའང་ཉིན་དུས་རྨི་ལམ་ལ་སོགས་པ་གང་བསྒོམས་པའི་ངང་ལ་སྐད་ཅིག་ཀྱང་མ་ཡེངས་པ་གཅེས་སོ། །དེའང་དང་པོར་བླ་མའི་རྣལ་འབྱོར།
+གཉིས་པར་སྣང་སེམས་སྒྱུ་མ། གསུམ་པར་སྤྲོ་བསྡུ་མེད་པའི་ཤེས་པ་སོར་བཞག་ནམ་མཁའ་ལྟ་བུའི་ངང་དུ་གློད་ནས་བསྒོམ་པ་ལ་འབད་དོ།
+།ཐུན་རྗེས་གང་བསྒོམས་པའི་སྒྱུ་མའི་ངང་ནས་འགྲོ་བ་ལ་སོགས་པ་བྱའོ།
+།
+
+Moreover, during the daytime,it is crucial that you are not distracted for even an instantwhile
+in the ongoing experience of becoming familiar with things as a dream and so forth.
+
+In this way, initially practice guru yoga,secondly, the illusion of appearances and mind,and
+thirdly, rest distinctly in knowing that which is beyond projection and contraction.
+
+Exert yourself in meditation by staying loose in the ongoing experience that is like space!After
+your session, repeatedly become familiar with things from that ongoing experience of
+illusion.
+
+མཚན་མོ་གཡས་ཕབ་སྟེ་མིག་ཧར་པོར་མི་འགུལ་བར་རླུང་དལ་བར་བྱ་ཞིང་། སེམས་གནད་སྙིང་ནང་དུ་ཨ་དཀར་པོ་འོད་འཕྲོ་བ་མཐེ་བོང་ཙམ་ལས་འོད་འཕྲོས་པས།
+སྣང་སྲིད་འཁོར་འདས་ཐམས་ཅད་འོད་དུ་ཞུ་ཚུར་འདུས་ཨ་ལ་ཐིམ་པའི་ངང་དེ་ཉིད་དུ་མ་ཡེངས་པར་བསྒོམས་ནས་ཉལ་བས་རྨི་ལམ་ལ་སོགས་པ་དང་པོར་ཟིན་པ་དང་།
+དེ་ནས་གཅིག་ལས་མང་པོར་སྤེལ་བ་དང་།
+མང་པོ་གཅིག་ཏུ་སྡུད་པ་དང་། ཞི་བ་ལས་ཁྲོ་བོར་བསྒྱུར་བ་དང་། ལྷ་དང་ཀླུ་ལ་སོགས་པར་སྤྲུལ་པ་དང་།
+སྐད་ཅིག་གིས་བདེན་མེད་དུ་སྦྱང་བ་དང་སྐྱེ་མེད་འོད་གསལ་དུ་བསྲེ་བ་རྣམས་རིམས་གྱིས་བྱའོ།
+།
+
+At nighttime, rest on your right side,
+breathe gently, and don’t glance about abruptly.
+
+From the vital point of the mind within your heart,[imagine] a white syllable “A,” about the
+size of a thumbnail, emitting light –and this light emanates forth acrossall appearances
+and existence, saṃsāra and nirvāṇa,which melt into the light, are reabsorbed into you, and
+dissolve into the “A.”
+
+By meditating without distraction in that very ongoing experience,While you are asleep in a
+dream and similarly –first, be certain and then,multitudes will proliferate from oneand those
+multitudes will be absorbed back into the one;the fierce will be transformed from the
+quiescent,and there will be apparitions of gods, nāgas, and so forth …
+
+At that very moment, train in their unrealityand gradually mingle with their unborn luminosity.
+
+
+འདི་རྣམས་ཐམས་ཅད་ཀྱི་སྐབས་སུ་བླ་མ་ལ་གསོལ་བ་གདབ་པ་དང་། སྐད་ཅིག་ཀྱང་མ་ཡེངས་པ་དང་། ཉིན་དུས་སྤྲུལ་བསྒྱུར་ལ་སོགས་པའི་འདུན་པ་དྲག་པོ་བྱ་བ་ནི་གནད་གལ་པོ་ཆེའོ།
+།
+
+On all such occasions, make supplications to your teachers anddo not be distracted even for
+an instant.During the day, be very diligent in conjuring apparitions.This vital point is extremely
+important!
+
+།དེ་ལྟར་གོམས་པ་ནས་སྒྱུ་མའི་ཉམས་ཀྱང་གོང་ལྟར་འཆར་ཏེ། བདེན་མེད་དུ་ཤེས་པ་མི་འབྱུང་མི་སྲིད་དོ། །དེ་ལ་དགག་སྒྲུབ་དང་ཞེན་བློ་བྱུང་ན་ངོས་བཟུང་ལ་སྒྱུ་མར་སྦྱངས་པས་གེགས་རང་གྲོལ་དུ་འགྱུར་བ་ཡིན་ནོ།
+།
+
+By becoming familiar in this way,even though illusory experiences will dawn as described,it
+will be impossible to avoid developing the understanding that they are unreal.
+
+As for affirmations or negations and fixations that arise in your mind,by training to recognize
+these as illusions,obstructions will transform into their intrinsic freedom!
+
+གཞན་ཡང་ཏིང་ངེ་འཛིན་གྱི་ཡོན་ཏན་བདེ་གསལ་མི་རྟོག་པ་ངང་གིས་འཆར་ཞིང་། སྣང་བ་འདི་ཕྱམ་གྱིས་ཟང་ཐལ་དུ་སོང་ནས་སྣང་དུས་དེ་ཉིད་སང་སེང་།
+འལ་འོལ། ཁྲལ་ཁྲོལ་དུ་སོང་བ་མཉམ་ཞིང་། རིག་པ་བན་བུན་ཕྱད་སྤྱོད་ཕྱལ་ཕྱལ་སོང་སྟེ།
+ཕྱི་ནང་བར་གསུམ་གཅིག་ཏུ་འདྲེས་ནས་ལུས་ཀྱི་འཛིན་པ་ལོག་སྟེ། གཏད་མེད་ཡངས་པ་ཆེན་པོའི་ངང་ལ་འབྲལ་བ་མེད་ཅིང་།
+ཆགས་སྡང་དང་དགག་སྒྲུབ་ཅི་བྱུང་ཡང་དགོད་འཆོར་བས་སེམས་ཀྱི་རྒྱན་དུ་འཆར་ཞིང་།
+སེམས་གསལ་དངས་མི་གཡོ་བའི་བསམ་གཏན་ལས། སྣང་བ་ཟང་ཐལ་དུ་མཐོང་བའི་སྤྱན་དང་། སེམས་ཤེས་པའི་མངོན་ཤེས་དང་།
+མཁའ་ལ་འགྲོ་བ་ལ་སོགས་པའི་རྫུ་འཕྲུལ་དཔག་ཏུ་མེད་པ་འགྲུབ་པར་འགྱུར་རོ།
+
+Moreover, from this ongoing experience, the qualities of meditative concentration[2]— bliss,
+clarity, and nonthought — will dawn.By resting with these appearances, move into their translucence
+–at that very moment of an appearance,evenly move into their cracks of light, ambiguities,
+and perforations –[3]move with the shimmering, fluctuating, and pervasiveness
+of awareness.[4]
+
+By merging outer, inner, and in-between into one,
+invert the holdings of your body.
+
+In the ongoing experience that is never separate from great vastness without reference,attraction
+or repulsion, affirmation or negation,while laughing or losing control, whatever occurs
+–these will dawn as ornaments of your mind.
+
+Through unwavering meditative absorption,the mind will remain clear and lucid,your vision will
+see the translucency of appearances,you’ll have the clairvoyance of knowing others’ minds,and
+you’ll accomplish the immeasurable supernormal powers, such as the ability to travel
+through space.
+
+།དེ་ལྟར་ཆོས་ཀུན་སྒྱུ་མའི་རང་བཞིན་དུ། །ཉམས་སུ་མྱོང་བ་གང་དེ་བཤད་པ་ལས། །བྱུང་བའི་དགེ་བས་མ་ལུས་འགྲོ་བ་ཀུན།
+།སྒྱུ་འདྲའི་རྒྱལ་བའི་མཛད་པ་མཐའ་ཡས་ཤོག །
+
+By the virtue that arises from this explanationof how to experience all phenomena as illusory
+by nature,may the activity of the illusion-like victors on behalf of all beings without
+exception remain beyond limit![5] 
+
+རྒྱ་ཆེན་དོན་ཟབ་སྒྱུ་མ་སྙིང་པོའི་དོན། །འོད་གསལ་སྒྱུ་མ་ཟུང་འཇུག་གདམས་པ་འདི།།དྲི་མེད་འོད་ཟེར་སྒྱུ་མའི་རྣལ་འབྱོར་པས།
+།གངས་རི་ཐོད་དཀར་སྒྱུ་འདྲའི་མགུལ་དུ་བཀོད། །
+
+I, the yogin of illusion, Stainless Radiance (Drimé Özer), arranged this instruction on the
+coalescence of luminosity and illusion, the essential meaning of illusion, extremely vast
+and profound in meaning, on the mountain slope that is like an illusion, White Skull Snow
+Mountain (Gangri Tökar).
+
+ཕྱི་རབས་སྐལ་ལྡན་གྲོལ་བ་དོན་གཉེར་བས། །ཆོས་ཚུལ་འདི་ལ་རྟག་ཏུ་ནན་ཏན་མཛོད། །མ་རིག་སྒྱུ་མའི་རབ་རིབ་དང་བྲལ་ནས།
+།ཡེ་ཤེས་སྒྱུ་མ་ལྷུན་གྲུབ་གཟུགས་སྣང་འགྱུར། །རྫོགས་པ་ཆེན་པོ་སྒྱུ་མ་ངལ་གསོའི་དོན་ཁྲིད་ཡིད་བཞིན་ནོར་བུ་ཞེས་བྱ་བ།
+རྒྱལ་སྲས་དྲི་མེད་འོད་ཟེར་གྱིས་བཀོད་པ་རྫོགས་སོ།། །།དགེའོ། །དགེའོ།
+།དགེའོ།། །།
+
+Fortunate individuals of future generations,please constantly and diligently apply themselves
+to this way of the dharma.
+
+Freed from the dimness of the illusion of mis-knowing,appearances of percepts will transform
+into the spontaneous illusion of pristine wisdom.
+
+This concludes the text called, “A Wish-Fulfilling Gem: Guidance on the Meaning of Being at
+Ease with Illusion, A Dzogchen Teaching,” that was arranged by the child of the victors, Drimé
+Özer.
+
+Virtue! Virtue! Virtue!!
+
+| Translated by Michael R. Sheehy, 2021.
